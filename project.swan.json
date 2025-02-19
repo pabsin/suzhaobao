@@ -1,0 +1,28 @@
+{
+    "smartProgramRoot": ".",
+    "appid": "17767334",
+    "setting": {
+        "urlCheck": true
+    },
+    "compilation-args": {
+        "common": {
+            "enhance": true,
+            "quickPreview": true
+        },
+        "forceChanged": {
+            "quickPreview": true
+        }
+    },
+    "project-create-info": {
+        "dev-tool-version": "4.36.1",
+        "date": "2025/1/1"
+    },
+    "host": "baiduboxapp",
+    "swan": {
+        "baiduboxapp": {
+            "swanJsVersion": "3.970.2",
+            "extensionJsVersion": "1.21.2"
+        }
+    },
+    "projectname": "速照宝"
+}

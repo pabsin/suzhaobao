@@ -1,0 +1,15 @@
+{
+    "miniprogramRoot": "./dist",
+    "projectname": "photo-app",
+    "description": "速照宝",
+    "appid": "yourappid",
+    "setting": {
+        "urlCheck": true,
+        "es6": true,
+        "enhance": true,
+        "compileHotReLoad": false,
+        "postcss": true,
+        "minified": true
+    },
+    "compileType": "miniprogram"
+}
