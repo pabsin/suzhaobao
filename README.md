@@ -4,7 +4,7 @@
 
 
 # 预览
-![mini-program-code.jpg](docs/images/preview.png)
+![preview.jpg](docs/images/preview.png)
 
 
 # 扫码下方微信小程序码体验
@@ -32,12 +32,12 @@
 
 ## 隐私协议
 
-![mini-program-code.jpg](docs/images/4.png)
+![settings.jpg](docs/images/4.png)
 
 
 ## 客服配置
 
-![mini-program-code.jpg](docs/images/10.png)
+![custom.jpg](docs/images/10.png)
 
 
 ## 📧其它
@@ -46,4 +46,4 @@
 
 微信：tinlikecom
 
-![mini-program-code.jpg](docs/images/wechat.jpg)
+![wechat.jpg](docs/images/wechat.jpg)
