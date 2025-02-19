@@ -21,7 +21,7 @@
 1. 复制`.env.development.example` 为`.env.development`
 
 2. 修改其中`TARO_APP_ID`, `TARO_APP_NAME`, `TARO_APP_API_HOST`的值成你自己的
-   ![mini-program-code.jpg](docs/images/build.png)
+   ![build.jpg](docs/images/build.png)
 
 3. 执行`pnpm install` 安装依赖
 
