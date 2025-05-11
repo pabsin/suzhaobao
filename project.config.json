@@ -4,10 +4,10 @@
     "description": "速照宝",
     "appid": "yourappid",
     "setting": {
-        "urlCheck": true,
+        "urlCheck": false,
         "es6": true,
         "enhance": true,
-        "compileHotReLoad": false,
+        "compileHotReLoad": true,
         "postcss": true,
         "minified": true
     },
