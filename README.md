@@ -2,6 +2,7 @@
 
 速照宝证件照换底色微信小程序源码，提供证件照制作、换底色等功能
 
+本项目是前端源码，后端源码在https://github.com/pabsin/suzhaobao-rust
 
 # 预览
 ![preview.jpg](docs/images/preview.png)
@@ -13,7 +14,8 @@
 
 # ⭐最近更新
 - 二次开发源码来自: https://github.com/no1xuan/id-photo-wechat
-- 二开内容：采用Taro + Vite + Typescript重写，适配微信基础库版本：3.7.7
+- 二开内容：采用Taro + Vite + Typescript重写，适配微信基础库版本：3.7.7，后端用Rust语言实现
+
 ------
 
 # 🔧部署

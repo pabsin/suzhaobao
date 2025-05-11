@@ -77,7 +77,7 @@ export async function upload<T = any>(options): Promise<T> {
         return resolve(data as unknown as Promise<T>);
       }
 
-      if (statusCode === 401) {
+      if (statusCode === 401 || statusCode === 403) {
         return Taro.navigateTo({
           url: '/pages/login/index'
         });
